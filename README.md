@@ -1,2 +1,2 @@
-# hello_world_x86_kernel
+# Hello World x86 Kernel
 Hello World bootable linux image via QEMU
